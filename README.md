@@ -1,4 +1,4 @@
-<h1 align="center">所需即所获：像 IDE 一样使用 vim</h1>
+<h1 align="center">所需即所获：打造vim Python IDE </h1>
 
 ##【目录】
 ----
